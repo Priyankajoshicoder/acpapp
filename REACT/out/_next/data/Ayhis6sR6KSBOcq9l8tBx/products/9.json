@@ -1,0 +1,1 @@
+{"initialReduxState":{"counter":{"count":0},"cart":{"items":[],"itemNum":0},"auth":{"token":""},"toaster":{"notifications":[]}},"__N_SSG":true,"pageProps":{"product":{"id":9,"name":"Wind Blocker Jacket","price":"720.00","sex":["M","F"],"images":[{"id":17,"image":"/images/Screenshot_2024-10-10_201835.png","product":9}]}}}
